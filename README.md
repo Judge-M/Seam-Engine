@@ -40,4 +40,4 @@ The example uses a generic non-Seam caller, trusted in-memory grant source, a fi
 
 The [combined example](https://github.com/Judge-M/Seam/tree/main/examples/combined) shows the optional SDK adapter.
 
-Dual licensed under MIT or Apache-2.0.
+Licensed under Apache-2.0. See [LICENSE](LICENSE).
